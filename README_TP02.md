@@ -37,8 +37,3 @@ This project is part of the CS506 Team Project Submission #2. It applies various
 - Pandas
 - Matplotlib & Seaborn
 
-## Contributors
-Team09 – Ashwin, Akarsh, Divakar, Sara
-
-## License
-This project is for academic purposes only.
